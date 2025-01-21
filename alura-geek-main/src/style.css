@@ -1,0 +1,57 @@
+header, footer {
+  background-color: #5300C8;
+}
+
+button{
+  background-color: transparent;
+  border: none;
+}
+
+.card {
+  background-color: #5D04D9;
+  color: white;
+}
+.navbar-brand {
+  margin: 0 auto; /* Centrar horizontalmente */
+}
+
+.navbar-brand img {
+  display: block;
+  max-height: 50px; /* Ajusta el tamaño según sea necesario */
+}
+
+#create_product{
+  background-color: #03318C;
+  color: white;
+}
+
+#create_product:hover {
+  background-color: white;
+  border-color: #03318C;
+  color: #03318C
+}
+
+
+#clear_form{
+  border-color: #03318C;
+  background-color: white;
+  color: #03318C;
+}
+
+#clear_form:hover {
+  background-color: #03318C;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+}
+
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05); /* Agranda ligeramente la tarjeta */
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada */
+}

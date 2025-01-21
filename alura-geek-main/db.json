@@ -1,0 +1,40 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Auriculares Bluetooth",
+      "precio": 50.99,
+      "img": "https://res.cloudinary.com/boolean-spa/image/upload/v1733116998/sesi%C3%B3n_remota_de_pair_programming_entre_dos_desarrolladoras_mujeres_en_un_futuro_cibern%C3%A9tico_dogkf5.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Teclado Mecánico RGB",
+      "precio": 75.5,
+      "img": "https://res.cloudinary.com/boolean-spa/image/upload/v1733116998/sesi%C3%B3n_remota_de_pair_programming_entre_dos_desarrolladoras_mujeres_en_un_futuro_cibern%C3%A9tico2_b1nuik.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Monitor Full HD 24\"",
+      "precio": 120,
+      "img": "https://res.cloudinary.com/boolean-spa/image/upload/v1732505031/gdFPrAgX1QsimO4IqyIyK_tst4yj.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Cámara Web 1080p",
+      "precio": 40.75,
+      "img": "https://res.cloudinary.com/boolean-spa/image/upload/v1703088980/flaskcover_aerul9.png"
+    },
+    {
+      "id": "6",
+      "nombre": "Mouse Inalámbrico",
+      "precio": 20.3,
+      "img": "https://res.cloudinary.com/boolean-spa/image/upload/v1730399337/operaciones_mineras_seguras_xq0xid.jpg"
+    },
+    {
+      "id": "9d89",
+      "nombre": "TurboMan",
+      "precio": 12.55,
+      "img": "https://res.cloudinary.com/boolean-spa/image/upload/v1730398277/Gesti%C3%B3n_del_cambio_bv0ird.jpg"
+    }
+  ]
+}
